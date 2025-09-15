@@ -1,0 +1,19 @@
+{
+    "name": "Mystical Teachings",
+    "short_name": "Mystical",
+    "description": "Search Magic: The Gathering cards using Scryfall API",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#1a1a1a",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.jpg",
+            "sizes": "180x180",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ]
+}
